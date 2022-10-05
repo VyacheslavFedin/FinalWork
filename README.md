@@ -1,31 +1,9 @@
 итоговая проверочная работа за первую четветь
 
-…or create a new repository on the command line
+1. Задали строчный массив 'str_array01' и переменную 'j' для определения длины нового массива
+2. Первый цикл нужен для определения длины нового массива
+3. Задали новый строчный массив 'str_array02' длиной равной 'j' и переменную 'q' необходимую для заполнения нового массива
+4. Второй цикл записывает строки с длиной менее или равно три символа в новый массив
 
-echo "# FinalWork" >> README.md
-
-git init
-
-git add README.md
-
-git commit -m "first commit"
-
-git branch -M main
-
-git remote add origin https://github.com/VyacheslavFedin/FinalWork.git
-
-git push -u origin main
-
-…or push an existing repository from the command line
-
-git remote add origin https://github.com/VyacheslavFedin/FinalWork.git
-
-git branch -M main
-
-git push -u origin main
-
-…or import code from another repository
-
-You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
 
